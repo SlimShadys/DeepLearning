@@ -1,3 +1,6 @@
 # Ignore MNIST dataset and Lightning Logs
 Practicals/01 - Introduction to Pytorch, Linear-Nonlinear Transformations/MNIST/
 Practicals/01 - Introduction to Pytorch, Linear-Nonlinear Transformations/lightning_logs/
+
+# Ignore CIFAR Dataset
+Practicals/02 - PyTorch Dataset Module, ResNets/data
